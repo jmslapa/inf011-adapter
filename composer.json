@@ -1,0 +1,15 @@
+{
+    "name": "jmslapa/inf011-adapter",
+    "description": "Implementaçao do trabalho 3 da disciplina de design patterns. O pattern em questao e o Adapter.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Joao Lapa",
+            "email": "joaomanoel1996@hotmaill.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {
+        "jmslapa/mf": "^1.2@RC"
+    }
+}
