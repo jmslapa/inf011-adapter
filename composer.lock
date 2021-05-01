@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "jmslapa/mf",
-            "version": "v1.2.0-rc",
+            "version": "v1.2.1-rc",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmslapa/mf.git",
-                "reference": "a0a6f16cbad3d89ce34e5bd53bf1881f0d73056c"
+                "reference": "790e9cd0ca59efaa64ed5b4ccd6a5a1f33a10d23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jmslapa/mf/zipball/a0a6f16cbad3d89ce34e5bd53bf1881f0d73056c",
-                "reference": "a0a6f16cbad3d89ce34e5bd53bf1881f0d73056c",
+                "url": "https://api.github.com/repos/jmslapa/mf/zipball/790e9cd0ca59efaa64ed5b4ccd6a5a1f33a10d23",
+                "reference": "790e9cd0ca59efaa64ed5b4ccd6a5a1f33a10d23",
                 "shasum": ""
             },
             "require-dev": {
@@ -44,9 +44,9 @@
             "description": "Mini framework mvc",
             "support": {
                 "issues": "https://github.com/jmslapa/mf/issues",
-                "source": "https://github.com/jmslapa/mf/tree/v1.2.0-rc"
+                "source": "https://github.com/jmslapa/mf/tree/v1.2.1-rc"
             },
-            "time": "2021-05-01T01:47:13+00:00"
+            "time": "2021-05-01T02:32:59+00:00"
         }
     ],
     "packages-dev": [],

@@ -9,6 +9,14 @@
         }
     ],
     "minimum-stability": "RC",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app",
+            "Bootstrap\\": "./bootstrap",
+            "Plugins\\": "./plugins",
+            "Support\\": "./support"
+        }
+    },
     "require": {
         "jmslapa/mf": "^1.2@RC"
     }
